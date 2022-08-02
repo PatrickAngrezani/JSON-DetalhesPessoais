@@ -1,0 +1,10 @@
+{
+    "nome": "Patrick Angrezani",
+    "idade": 22,
+    "estaTrabalhando?": true,
+    "detalhesProfissão": {
+        "profissão": "Gerente Técnico",
+        "empresa": "RadioSparx"
+    },
+    "hobbies": ["Estudar", "Praticar esportes", "Sair com amigos"]
+}
